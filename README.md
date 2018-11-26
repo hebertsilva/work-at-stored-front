@@ -1,6 +1,6 @@
 ## Objetivo
 
-- Desenvolver uma página com Autenticação via Spotify para listar músicas, artista e playlists
+- Desenvolver uma página com Autenticação via [Spotify API](https://developer.spotify.com/documentation/web-api/) para listar músicas, artista e playlists
 - Desenvolver uma página para playlist
 - Usar design próprio
 
