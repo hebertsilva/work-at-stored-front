@@ -19,6 +19,11 @@
 - Escreva a documentação do projeto:
 - Instalar e testar instruções
   - Requisitos para executar o projeto
+  
+## Recomendações
+
+- Versionar projeto no GitHub
+- Usar boas práticas de [Git](https://nvie.com/posts/a-successful-git-branching-model/)
 
 ## Nice to have
 - Hospedar o projeto no [Heroku](https://www.heroku.com/) ou [Netlify](https://www.netlify.com/)
