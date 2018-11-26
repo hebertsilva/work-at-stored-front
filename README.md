@@ -21,6 +21,6 @@
   - Requisitos para executar o projeto
 
 ## Nice to have
-- Hospedar o projeto no [Heroku](https://www.heroku.com/)
+- Hospedar o projeto no [Heroku](https://www.heroku.com/) ou [Netlify](https://www.netlify.com/)
 - VueJS
 - NuxtJS
